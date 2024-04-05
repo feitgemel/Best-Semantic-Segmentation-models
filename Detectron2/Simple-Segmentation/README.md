@@ -1,6 +1,6 @@
 # Detectron2 | Simple Real Time Instance Segmentation
 <p align="center">
-  <img width="800" src="Simple Instance segmentation.jpg" "image">
+  <img width="800" src="Simple Instance segmentation.png" "image">
 </p>
 
 ##

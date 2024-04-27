@@ -19,7 +19,8 @@ We will learn to install it on Windows and Linux , and code the inference Python
 
 You can find the link for the [tutorial](https://youtu.be/TDEsukREsDM) here. 
 
-You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
+You can find more cool Instance segmentation projects and tutorials in this  [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4Y24C9LW1AjffKmgGUyaInz)
+
 
 Enjoy
 

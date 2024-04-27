@@ -1,22 +1,24 @@
-# Detectron2 | How to train and segment your custom dataset
+# Segment Anything | Automated Mask Generation using Segment Anything
 <p align="center">
-  <img width="800" src="Detectron2 - How to segment  your custom dataset.png" "image">
+  <img width="800" src="SAM-Automated Mask Generation.png" "image">
 </p>
 
 ##
 <br/><br/> 
 
 <font size= "4" >
-Detectron2, a Python library for deep learning instance segmentation, enables real-time instance segmentation in computer vision applications. An example of its usage is in an image segmentation project where Detectron2 is employed for instance segmentation, providing accurate and efficient results.
+The Segment Anything Model (SAM) is a powerful tool for automated mask generation, enabling users to effortlessly segment and extract objects from images through its advanced instance segmentation capabilities.
+
+Image segmentation tasks can be streamlined with Segment Anything, a cutting-edge model that generates accurate masks for any object or region within an image, facilitating efficient object extraction and analysis.
 
 <br/><br/> 
-In this tutorial we will learn how to train a custom dataset , in order to run your own inference of instance segmentation using Detectron2.
+In this tutorial we will cover a simple way to segment masks out of an image automatically.
 
-We will learn to train it on Windows and Linux , and code the train and inference Python code for this task .
+We will install the relevant Python libraries ,  and write the Python script for this task .
 
 <br/><br/> 
 
-You can find the link for the [tutorial](https://youtu.be/JbEy4Eefy0Y) here. 
+You can find the link for the [tutorial](https://youtu.be/vmDs2d0CTFk) here. 
 
 You can find more cool Instance segmentation projects and tutorials in this  [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4Y24C9LW1AjffKmgGUyaInz)
 

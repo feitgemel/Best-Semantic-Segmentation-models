@@ -1,0 +1,13 @@
+# Instance Segmentation on Images
+
+1. copy images folder the the Yolo-V5 main folder
+
+2. Run this command :
+
+-> only one image :
+python segment/predict.py --weights yolov5x-seg.pt --source images/Rahaf.jpg --name output --exist-ok
+
+
+
+-> folder of images : 
+python segment/predict.py --weights yolov5x-seg.pt --source images --name output --exist-ok

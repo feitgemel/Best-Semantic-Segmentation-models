@@ -1,0 +1,18 @@
+0 0.5003125 0.4148148148148148 0.235625 0.5898148148148148
+1 0.7546875 0.36574074074074076 0.11875 0.2814814814814815
+
+The class index (0-based)
+The normalized coordinates of the bounding box (x_center, y_center, width, height) where:
+x_center, y_center are the coordinates of the center of the bounding box relative to the width and height of the image
+width, height are the width and height of the bounding box relative to the width and height of the image
+For example:
+
+The first line indicates an object of class 0 (e.g., "person") 
+with a bounding box whose center is located at approximately (50.03%, 41.48%) of the image width 
+and height, and has a width of approximately 23.56% and a height of approximately 58.98% of 
+the image width and height.
+
+The second line indicates an object of class 1 (e.g., "car") with a bounding box whose center is located 
+at approximately (75.47%, 36.57%) of the image width and height, 
+and has a width of approximately 11.88% and a height of approximately 28.15% of 
+the image width and height.

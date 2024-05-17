@@ -1,0 +1,16 @@
+Instructions : 
+
+1. download the dataset from here : https://www.kaggle.com/datasets/sadhliroomyprime/football-semantic-segmentation
+2. create a new folder :
+    a. copy all the images -> use only the images without the name "__fuse" or "__save"
+    b. copy the json file to same folder 
+
+
+3. use Roboflow to load the images and annotations , and create Yolo8 txt files
+4. upload the images data 
+5. upload the json annotation file
+6. go to versions and create a version
+7. click the export , and download the dataset ( choose TXT of YoloV8 )
+
+8. update the yaml file with the correct paths for the train, validaite and test
+# the txt files will be used for the segmentation.

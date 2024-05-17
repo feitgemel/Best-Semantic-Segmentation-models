@@ -1,0 +1,13 @@
+train: C:/Data-sets/Football-Seg.v1i.yolov8/train/images
+val: C:/Data-sets/Football-Seg.v1i.yolov8/valid/images
+test: C:/Data-sets/Football-Seg.v1i.yolov8/test/images
+
+nc: 10
+names: ['Advertisements', 'Audience', 'Ball', 'Goal Bar', 'Goalkeeper A', 'Goalkeeper B', 'Ground', 'Referee', 'Team A', 'Team B']
+
+roboflow:
+  workspace: eran-feit-lov6q
+  project: football-seg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eran-feit-lov6q/football-seg/dataset/1

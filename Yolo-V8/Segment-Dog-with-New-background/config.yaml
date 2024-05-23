@@ -1,0 +1,5 @@
+train: C:/Data-sets/Dog segmentation YoloV8/train/images
+val: C:/Data-sets/Dog segmentation YoloV8/valid/images
+
+nc: 1
+names: ['dog']

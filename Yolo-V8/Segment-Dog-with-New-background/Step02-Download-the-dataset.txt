@@ -1,0 +1,5 @@
+1. Download the Dog segmentation from my link : https://www.dropbox.com/scl/fi/1pkuozq4mmd1qnlopml08/Dog-segmentation-YoloV8.zip?rlkey=e2750ts6akmuj6x988iwmqlnt&st=xyptm465&dl=0
+
+2. Extract the zip . 
+
+2. copy the Dataset into : C:\Data-sets\Dog segmentation YoloV8

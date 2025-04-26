@@ -1,0 +1,12 @@
+
+conda create -n RemoveBG python=3.11
+conda activate RemoveBG
+
+pip install opencv-python==4.10.0.84
+pip install mediapipe==0.10.14
+
+# Download the models :
+# put it in your favotite folder . 
+https://storage.googleapis.com/mediapipe-models/image_segmenter/deeplab_v3/float32/1/deeplab_v3.tflite
+
+https://storage.googleapis.com/mediapipe-models/interactive_segmenter/magic_touch/float32/1/magic_touch.tflite

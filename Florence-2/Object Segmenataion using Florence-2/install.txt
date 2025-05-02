@@ -1,0 +1,29 @@
+
+1. Create Conda enviroment :
+
+conda create -n florence2 python=3.12.3
+conda activate florence2
+
+
+2. Install Pytorch : (for Cuda 12.4)
+
+nvcc --version
+
+conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+2. Installation :
+
+pip install transformers==4.45.2
+pip install timm==1.0.11
+pip install packaging==24.2
+pip install wheel==0.44.0
+pip install ninja==1.11.1.1
+
+# "flash_attn" may take several hours of installation  . It's OK !!
+pip install flash_attn==2.6.3
+
+pip install einops==0.8.0
+pip install accelerate==1.1.1
+pip install matplotlib==3.9.2
+
+pip install opencv-python==4.10.0.84

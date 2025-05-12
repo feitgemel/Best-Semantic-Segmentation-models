@@ -1,0 +1,16 @@
+# Dataset : Carvana Image Masking Challenge : https://www.kaggle.com/c/carvana-image-masking-challenge/data
+
+
+# Create Conda enviroment :
+
+conda create -n U-Net-Pytorch python=3.11 
+conda activate U-Net-Pytorch
+
+nvcc --version
+
+# CUDA 12.4
+conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+# more dependencies
+pip install tqdm==4.67.1
+pip install matplotlib==3.10.0

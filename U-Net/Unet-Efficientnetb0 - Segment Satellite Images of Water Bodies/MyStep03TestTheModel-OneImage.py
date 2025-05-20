@@ -13,7 +13,7 @@ Width = 128
 Height = 128 
 # Show one image for test 
 
-path_test_image = "Best-Semantic-Segmentation-models/Unet-Efficientnetb0 - Segment Satellite Images of Water Bodies/test_img.jpg"
+path_test_image = "Best-Semantic-Segmentation-models/U-Net/Unet-Efficientnetb0 - Segment Satellite Images of Water Bodies/test_img.jpg"
 img = cv2.imread(path_test_image, cv2.IMREAD_COLOR)
 img = cv2.cvtColor(img , cv2.COLOR_BGR2RGB)
 

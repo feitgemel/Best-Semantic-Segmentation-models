@@ -1,28 +1,30 @@
-# EfficientNetB0’s Great Accuracy on Water Masks | Full tutorial
+# Dust-Storm Image Segmentation with VGG16 U-Net | Binary Segmentation
 <p align="center">
-  <img width="800" src="EfficientNetB0 - How to segment Satellite water images.png" "image">
+  <img width="800" src="Unet-VGG16-Segment Dust Storm.png" "image">
 </p>
 
 ##
 <br/><br/> 
 
 <font size= "4" >
-🚀 Welcome, vision enthusiasts!
+🚨 Before You Train a U-Net… Watch This car segmentation tutorial 🚨  
 
-In today’s deep-dive we push EfficientNetB0 to its limits and unlock unbelievable accuracy on satellite-grade water segmentation.
+In this full-stack tutorial I guide you through building a VGG16-U-Net that segments satellite images into *storm* vs *background*—all in pure Python with TensorFlow 2.
+
+In this hands-on session we build, train, and deploy an Unet VGG16 in TensorFlow that separates storm plumes from background terrain
 
 You'll learn how to:
 
 <br/><br/> 
 🔹 What you’ll learn:
 
-- How to build a U-Net Efficientnetb0 model from scratch
+- How to build a U-Net VGG16 model from scratch
 - Pre-processing the dataset into a pipeline
-- How to train your model on the Water segmentation dataset 
+- How to train your model on the Dust storm segmentation dataset 
 - How to run inference on a single test image
 <br/><br/> 
 
-You can find the link for the [tutorial](https://youtu.be/VUjvfI1oGpE) here. 
+You can find the link for the [tutorial](https://youtu.be/nhnBpxZE014) here. 
 
 You can find more cool Instance segmentation projects and tutorials in this  [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4Y24C9LW1AjffKmgGUyaInz)
 

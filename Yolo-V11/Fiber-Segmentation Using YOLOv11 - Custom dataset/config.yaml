@@ -1,0 +1,6 @@
+path: 'D:/Data-Sets-Object-Segmentation/Fiber Segmentation/ALL_DATA'
+train: 'train/images' 
+val: 'validation/images'  
+
+nc: 1
+names: ['fiber']

@@ -1,0 +1,15 @@
+# Dataset : https://universe.roboflow.com/university-bswxt/crack-bphdr/dataset/2
+
+
+1. Download the dataset from the link above and extract it to a folder.
+2. Click the Download button (Upper right) to download the dataset.
+3. Choose the "Download dataset" option in the pop-up Window
+4. Choose the YoloV11 format in the combo box and click the "Download zip to computer", and click the continue button.
+5. Extract the Zip File -> It will generate a "crack.v2i.yolov11" folder.
+
+
+
+
+
+
+

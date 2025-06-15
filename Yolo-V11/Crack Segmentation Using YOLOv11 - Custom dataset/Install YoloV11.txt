@@ -1,0 +1,14 @@
+- Create conda enviroment 
+conda create --name YoloV11-311 python=3.11
+conda activate YoloV11-311
+
+nvcc --version
+
+# Cuda 12.4
+conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.4 -c pytorch -c nvidia         
+
+# install YoloV11
+pip install ultralytics==8.3.59
+
+# more : 
+pip install opencv-python==4.10.0.84

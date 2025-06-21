@@ -1,0 +1,13 @@
+
+- Create conda enviroment 
+conda create --name Pytorch251 python=3.12
+conda activate Pytorch251
+
+nvcc --version
+
+# Cuda 12.4
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+# install
+pip install opencv-python==4.10.0.84
+
